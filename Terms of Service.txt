@@ -1,0 +1,31 @@
+Terms of Service — PedroSPA
+Effective Date: July 15, 2025
+Welcome to PedroSPA. By accessing or using our application or associated services, you agree to be bound by these Terms of Service. Please read them carefully.
+
+1. Acceptance of Terms
+By using PedroSPA, you agree to comply with and be legally bound by these terms. If you do not agree, please discontinue use of our app and services.
+2. Description of Service
+PedroSPA provides tools for integrating with Meta’s Graph API, managing insights from Instagram and Facebook, and automating social media operations. Services are provided “as is” and may be updated or modified at any time.
+3. User Responsibilities
+Users agree:
+- To provide accurate and lawful data
+- Not to misuse API access or reverse-engineer the application
+- To respect the privacy and data rights of others
+4. Privacy and Data Use
+We are committed to protecting your privacy. Your personal data is collected and processed solely for the purpose of providing and improving our services.
+We do not sell or share your information with third parties, except as required to operate core features or comply with legal obligations.
+You can review our full Privacy Policy and Data Deletion Instructions for more details.
+By using PedroSPA, you consent to the collection and use of your data as described in these documents.
+5. Intellectual Property
+All content and software associated with PedroSPA are protected under copyright law. You may not copy, modify, distribute, or use any part of the app beyond permitted access unless authorized.
+6. Termination
+We reserve the right to suspend or terminate access to our app for users who violate these terms or engage in activity deemed harmful or unlawful.
+7. Limitation of Liability
+PedroSPA is not liable for any direct or indirect damages resulting from the use or inability to use the app. All services are offered without warranties of any kind.
+8. Changes to Terms
+We may update these Terms from time to time. Continued use of the app after changes indicates acceptance.
+9. Contact
+For questions or support, reach out to:
+📧 pedrocccunha@gmail.com
+
+Would you like me to format this into Markdown or HTML so you can host it on GitHub Pages or link it in your Facebook App settings? I can even add a PedroSPA logo or color styling if you want to give it some flair.
